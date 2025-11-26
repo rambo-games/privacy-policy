@@ -1,74 +1,85 @@
-Rambo Games Privacy Policy
+# Privacy Policy
 
-Privacy Policy
+**Last updated: 26 November 2025**  
+**Developer: Rambo Games**
 
-Last updated: 26 November 2025
-Developer: Tusharth Studios
+Rambo Games (“we”, “our”, or “us”) develops and publishes mobile games, including **Candy Puzzle Mania** and **Candy Word Puzzle**. This Privacy Policy explains how we collect, use, and protect information when you play our games.
 
-Tusharth Studios (“we”, “our”, or “us”) develops and publishes mobile games, including Candy Puzzle Mania and Candy Word Puzzle. This Privacy Policy explains how we collect, use, and protect information when you play our games.
+---
 
-By installing or playing our games, you agree to this Privacy Policy.
+## 1. Information We Collect
 
-1. Information We Collect
-
-We do not collect any personally identifiable information such as your name, email, phone number, or address.
+We do **not** collect any personally identifiable information such as your name, email, phone number, or address.
 
 However, limited data may be collected automatically through third-party tools for analytics and advertising purposes. This may include:
 
-Data Type	Purpose	Provider
-Device information (OS, model, language)	Analytics & optimization	Firebase, Amplitude
-IP address & general location (country level)	Ad targeting	AppLovin
-Gameplay behavior, session duration	Analytics	Amplitude
-Device push token	Notifications	OneSignal
+| Data Type | Purpose | Provider |
+|----------|---------|----------|
+| Device information (OS, model, language) | Analytics & optimization | Firebase, Amplitude |
+| IP address & general location (country level) | Ad targeting | AppLovin |
+| Gameplay behavior, session duration | Analytics | Amplitude |
+| Device push token | Notifications | OneSignal |
 
-We do not collect or store any personal data on our servers.
+We **do not** collect or store any personal data on our own servers.
 
-2. Third-Party Services
+---
+
+## 2. Third-Party Services
 
 Our games use third-party SDKs to display ads and collect anonymous analytics:
 
-AppLovin (Ads)
+- **AppLovin** (Advertising)  
+- **Google Firebase** (Analytics & crash reporting)  
+- **Amplitude** (User engagement analytics)  
+- **OneSignal** (Push notifications)
 
-Google Firebase (Analytics, Crash Reporting)
+These services may collect device and usage data in accordance with their own privacy policies. We strongly recommend you review their respective privacy policies.
 
-Amplitude (User engagement analytics)
+---
 
-OneSignal (Push notifications)
+## 3. Leaderboard System
 
-These services may collect device and usage data in accordance with their own privacy policies.
+Our current leaderboard is a **local-only feature using fictional data** (fake names and scores).  
+No real user information is collected, stored, or transmitted.
 
-3. Leaderboard System
+---
 
-Our current leaderboard is a local feature using fictional data only (fake names and scores).
-No actual user information is collected, stored, or transmitted.
+## 4. Children’s Privacy
 
-4. Children’s Privacy
-
-Our games are designed for a general audience aged 7 and above.
+Our games are designed for a **general audience aged 7+**.  
 We do not knowingly collect any personal information from children under 13. If you believe that we have unintentionally collected such data, please contact us and we will remove it immediately.
 
-5. Data Storage & Security
+---
 
-We do not store personal data on our own servers.
+## 5. Data Storage & Security
 
-All collected data is handled only by authorized third-party platforms using industry-standard security practices.
+- We **do not store personal data** on our own servers.  
+- All collected data (via third-party services) is handled using industry-standard security practices.  
+- No personally identifiable information is transmitted by our games.
 
-6. Your Rights
+---
 
-Since no personal data is collected by us, no data access or deletion request applies directly.
-However, you may request removal of data collected by third-party services through their respective contact pages.
+## 6. Your Rights
 
-7. Contact Us
+Since we do not collect personal information directly, we cannot provide personal data access, modification, or deletion.
 
-If you have questions regarding this Privacy Policy, please contact us at:
+However, if you wish to manage or delete data collected by third-party services, please refer to their respective privacy pages.
 
-📧 contact@tusharthstudios.com
+---
 
-(Temporary email: If you don’t have this email yet, let me know and I’ll replace it with something else like your own Gmail)
+## 7. Contact Us
 
-8. Changes to this Policy
+If you have any questions about this Privacy Policy, please contact us at:
 
-We may update this Privacy Policy from time to time. Continued use of our games after updates means you accept the revised policy.
+📧 **general@rambogames.in**
 
-Thank you for playing our games!
-Tusharth Studios
+---
+
+## 8. Changes to this Policy
+
+We may update this Privacy Policy from time to time. Continued use of our games after updates confirms your acceptance of the revised policy.
+
+---
+
+**Thank you for playing our games!**  
+*Rambo Games*
